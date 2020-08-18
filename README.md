@@ -14,3 +14,6 @@ I have written the implementation code in svm.ipynb file.
 
 # August 4, 2020
 I have updated the svm.ipynb file adding the sklearn implementation.
+
+# August 18, 2020
+I have completed the project and updated the workbook
